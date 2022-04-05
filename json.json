@@ -1,9 +1,9 @@
-  "app-info": [
-
-    {
+{
+"app-info":
+[
+{
       "version":"1.0",
       "maintenance": "false" 
-      
-
-      }
-    ]
+}
+]
+}
