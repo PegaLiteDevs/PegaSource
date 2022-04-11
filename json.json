@@ -4,7 +4,8 @@
 {
       "version":"1.0",
       "maintenance": "false",
-      "url":"https://github.com/PegaLiteDevs/PackageNameChanger/"
+      "url":"https://github.com/PegaLiteDevs/PackageNameChanger/",
+      "pro":"false"
 }
 ]
 }
