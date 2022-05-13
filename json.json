@@ -1,4 +1,12 @@
 {
+  "Total-Projects": [
+    {
+      "FreeFire": 12,
+      "Bgmi": 13,
+      "AmongUs": 14,
+      "Pubg": 15
+    }
+  ],
   "Games Profile": [
     {
       "FreeFire": [
@@ -263,21 +271,37 @@
             }
           ]
         }
-      ]
+      ],
+      "Bgmi": [],
+      "AmongUs": [],
+      "Pubg": []
     }
   ],
+  "Vip-Projects": [],
+  "Social-Data": [
+    {
+      "youtube": "",
+      "telegram": "",
+      "support": "",
+      "support2": "",
+      "share": "",
+      "pnc": ""
+    }
+  ],
+  "Tools": [],
+  "Apks": [],
   "Banners": [
     {
-      "url": ""
+      "url": "https://github.com/sahil78698/json/raw/main/Projects/1648118834147.png"
     },
     {
-      "url": ""
+      "url": "https://github.com/sahil78698/json/raw/main/Projects/1648118834147.png"
     },
     {
-      "url": ""
+      "url": "https://github.com/sahil78698/json/raw/main/Projects/1648118834147.png"
     },
     {
-      "url": ""
+      "url": "https://github.com/sahil78698/json/raw/main/Projects/1648118834147.png"
     }
   ],
   "app-info": [
@@ -287,7 +311,9 @@
       "message": "we are working on update",
       "url": "https://play.google.com/store/apps/details?id=com.pegalite.packagenamechanger",
       "pro": "false",
-      "key": "ASDFGFDSAASA"
+      "key": "ASDFGFDSAASA",
+      "server-url": "",
+      "downloader-url": ""
     }
   ]
 }
